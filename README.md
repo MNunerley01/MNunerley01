@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Dividend Dollars Investment App Frontend (React, NodeJS, TailwindCSS, Axios, Vite)</b>
-  - [DDIA]()
+  - [DDIA code]()
   - [Showcase](https://drive.google.com/file/d/1mUIjEVfnaWAXQD89y2e8ZKAlvZwEj5t4/view?usp=sharing)
 
 
