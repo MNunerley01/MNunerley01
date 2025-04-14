@@ -4,6 +4,7 @@
 
 - <b>Dividend Dollars Investment App Frontend (React, NodeJS, TailwindCSS, Axios, Vite)</b>
   - [DDIA]()
+  - [Showcase](https://drive.google.com/file/d/1mUIjEVfnaWAXQD89y2e8ZKAlvZwEj5t4/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
